@@ -1,4 +1,4 @@
 # learning-demo
 This is my first Git  repository
 <br>
-author "Ahnaf Shahriar Rahul"
+author - Ahnaf Shahriar Rhaul (Learning demo)
